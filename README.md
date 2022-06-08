@@ -8,10 +8,10 @@ Dating app
   - React
     - Redux
     - react-webcam
- - Axios
- - node.js
-   - Express
-   - nodemailer
+  - Axios
+  - node.js
+    - Express
+    - nodemailer
   - joi 
 - SQL
 - Bootstrap
