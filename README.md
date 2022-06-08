@@ -5,9 +5,9 @@ Dating app
 ## Software
 
 - Javascript
- - React
-   - Redux
-   - react-webcam
+  - React
+    - Redux
+    - react-webcam
  - Axios
  - node.js
    - Express
