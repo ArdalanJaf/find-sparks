@@ -5,11 +5,11 @@ Dating app
 ## Software
 
 - Javascript
-  - React
+ - React
    - Redux
    - react-webcam
-  - Axios
-  - node.js
+ - Axios
+ - node.js
    - Express
    - nodemailer
   - joi 
